@@ -78,7 +78,7 @@ nav > a:hover {
     transition-duration: 0.5s;
 }
 
-a.externo::after {
+a.externo::before {
     content: '\00A0\1F517';
 }
 
